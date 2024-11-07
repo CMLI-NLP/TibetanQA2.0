@@ -11,14 +11,5 @@ Tibetan machine reading and understanding data (TibetanQA2.0) is based on Tibeta
 Cite(MLA)：Dan, Zhengcuo and Yuan Sun. "TibetanQA2.0: Dataset with Unanswerable Questions for Tibetan Machine Reading Comprehension." Data Intelligence (2024): n. pag.
 
 Cite(APA)：Dan, Z., & Sun, Y. (2024). TibetanQA2.0: Dataset with Unanswerable Questions for Tibetan Machine Reading Comprehension. Data Intelligence.
-
-BibTeX:
-  @article{Dan2024TibetanQA20DW,
-      title={TibetanQA2.0: Dataset with Unanswerable Questions for Tibetan Machine Reading Comprehension},
-      author={Zhengcuo Dan and Yuan Sun},
-      journal={Data Intelligence},
-      year={2024},
-      url={https://api.semanticscholar.org/CorpusID:272100640}
-  }
 ## DOI
 https://doi.org/10.3724/2096-7004.di.2024.0029
