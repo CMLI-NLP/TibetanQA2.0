@@ -2,6 +2,8 @@
 ## Introduction
 Tibetan machine reading and understanding data (TibetanQA2.0) is based on TibetanQA. It adopts optimization measures such as unified and standardized use of interrogative particles, strict proofreading and correction of spelling and grammatical errors, in-depth verification of the compatibility of content and Tibetan context, and can answer questions 10,7 Article 07, in addition to 1,347 carefully designed unanswerable questions, a total of 12,054 data.
 ## Details
+Below is a summary of the average length of articles, paragraphs, and questions based on Tibetan syllables in the dataset.
+
 ![image](https://github.com/user-attachments/assets/0bd163bc-3211-4a21-acb6-dbb7209a193e)
 
 ## Data Demo
