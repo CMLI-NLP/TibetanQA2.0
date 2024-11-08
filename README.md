@@ -16,3 +16,5 @@ Cite(MLA)：Dan, Zhengcuo and Yuan Sun. "TibetanQA2.0: Dataset with Unanswerable
 Cite(APA)：Dan, Z., & Sun, Y. (2024). TibetanQA2.0: Dataset with Unanswerable Questions for Tibetan Machine Reading Comprehension. Data Intelligence.
 ## DOI
 https://doi.org/10.3724/2096-7004.di.2024.0029
+## Disclaimer
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
